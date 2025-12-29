@@ -25,7 +25,7 @@
 
 1. **卷積神經網路 (Convolutional Neural Network, CNN)**<br>
 
-* 深入淺出卷積神經網路 :&nbsp;[ [實驗室](https://colab.research.google.com/github/mz038197/Machine-Learning/blob/main/lab/teacher/CNN/Introduction_Convolutional_Neural_Networks.ipynb) ]
+* 深入淺出卷積神經網路 :&nbsp;[ [實驗室](https://colab.research.google.com/github/mz038197/Deep-Learning-Lab/blob/main/lab/teacher/CNN/Introduction_Convolutional_Neural_Networks.ipynb) ]
 
 * 章節測驗 :&nbsp;[ [連結](https://quizzes.vanscoding.com/quiz/BEHKYM) ]
 <br>
